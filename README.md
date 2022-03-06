@@ -7,6 +7,9 @@ Credits should always be given to GitHub: @mohalh963
 Google Drive link:
 https://drive.google.com/drive/folders/126i0KbLNwGjUa1Sgw31stkS06mhXYNoe?usp=sharing
 
+Adafruit IO feed:
+https://io.adafruit.com/mohalh963/feeds/gyarb1
+
 When opening the .ino file, a new folder will be created, move the file named “config.h” to the same folder before using the code.
 Don’t forget to write your AIO username, key, WiFi SSID, WiFi password in config.h
 
