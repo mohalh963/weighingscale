@@ -186,12 +186,10 @@ void loop() {
     tft.print("Mohammad Alhussein");
     tft.setCursor(130, 80);
     tft.print("Joel Petersson");
-    tft.setTextColor(ILI9341_BLUE);
     tft.setCursor(130, 110);
     tft.print("For more visit:");
     tft.setCursor(130, 130);
     tft.print("tinyurl.com/yeywafsn");
-    tft.setTextColor(ILI9341_WHITE);
     tft.setCursor(130, 160);
     tft.print("Pauliskolan 2022");
     tft.setCursor(130, 180);
